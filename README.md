@@ -1,6 +1,6 @@
-Theia - Firefox
-===============
+Theia
+=====
 
-A Firefox Extension for the [Theia Project](http://github.com/jrstarke/Theia)
+A Tool for collecting Web Navigation activities for research purposes.
 
 
