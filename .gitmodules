@@ -1,0 +1,9 @@
+[submodule "Theia-Chrome"]
+	path = Theia-Chrome
+	url = https://github.com/jrstarke/Theia-Chrome.git
+[submodule "Theia-Firefox"]
+	path = Theia-Firefox
+	url = https://github.com/jrstarke/Theia-Firefox.git
+[submodule "Theia-Server"]
+	path = Theia-Server
+	url = https://github.com/jrstarke/Theia-Server.git
